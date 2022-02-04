@@ -25,5 +25,5 @@ I also play Minecraft, and make memes.
 
 [Personal Discord](https://discord.gg/SrdYZU3SwE)
 
-##Other links:
+## Other links:
 [List of every Fabric GameProvider ever (hopefully)](https://pseudodistant.github.io/Game_Providers_List/)
